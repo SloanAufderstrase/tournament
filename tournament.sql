@@ -26,6 +26,7 @@ CREATE TABLE Players (
 
 --Matches table records the pairings of players and who won,who lost.
 
+--match_id:  the id number of the match they played
 --winner_id: the id number of the player who won
 --loser_id:  the id number of the player who lost
 
